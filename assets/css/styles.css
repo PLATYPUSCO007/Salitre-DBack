@@ -152,7 +152,7 @@ footer{
 }
 
 .mountain{
-    background-image: url('/assets/img/footer_bg.png');
+    background-image: url('../img/footer_bg.png');
     height: 350px;
     width: 100%;
 
@@ -200,7 +200,7 @@ footer{
 #btn-boletin{
     width: 15%;
     border: 0;
-    background-image: url('/assets/img/enviar_boton.png');
+    background-image: url('../img/enviar_boton.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
